@@ -33,7 +33,9 @@ git clone https://github.com/Ha3MrX/InstaBrute
 git clone https://github.com/LOoLzeC/ASU
 git clone https://github.com/technicaldada/hackerpro
 git clone https://github.com/V4N654T/fb-hacker
-mv m-wiz shellphish p-gen routersploit hulk snap Infect TBomb saycheese PhonSploit blackeye seeker Email-Bomber grabcam hacklock tunnel AdvPhishing m-wiz Duck_Droid cupp Tool-X hackerpro fb-hacker ASU InstaBrute  $HOME 
+git clone https://github.com/sqlmapproject/sqlmap.git
+git clone https://github.com/The404Hacking/websploit
+mv m-wiz shellphish p-gen routersploit hulk snap Infect TBomb saycheese PhonSploit blackeye seeker Email-Bomber grabcam hacklock tunnel AdvPhishing m-wiz Duck_Droid cupp Tool-X hackerpro fb-hacker ASU InstaBrute websploit sqlmap $HOME 
 cd 
 echo ALL THE SETUP IS DONE 
 exit
