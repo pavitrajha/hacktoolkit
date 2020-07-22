@@ -6,3 +6,10 @@ REQUIREMENTS:-
                2GB ram
                Kernel Architecture aarch64
    thanks for reading good by have a nice day !!!!
+   INSTALLATION:- 
+   Termux
+   $ apt updtae && apt upgrade
+   $ apt install git 
+   $ git clone https://github.com/pavitrajha/hacktoolkit
+   $ bash hacktoolkit.sh
+   
