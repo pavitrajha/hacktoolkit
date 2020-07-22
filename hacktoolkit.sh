@@ -1,12 +1,13 @@
 echo starting all the setup for ethical hacking 
 apt install git 
 apt install python python2 
-apt install curl proot wget php openssh lolcat figl
+apt install curl proot wget php openssh 
 pkg install root-repo
 pkg install unstable-repo
 pkg install x11-repo 
 pkg install netcat nmap aircrack-ng hydra tshark 
-install termux-api fish
+pkg install termux-api fish
+pip install whell scapy lolcat figlet
 git clone https://github.com/noob-hackers/m-wiz
 git clone https://github.com/Ignitetch/AdvPhishing 
 git clone https://github.com/magnumripper/JohnTheRipper
