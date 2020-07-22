@@ -1,4 +1,5 @@
 echo starting all the setup for ethical hacking 
+cd
 apt install git 
 apt install python python2 
 apt install curl proot wget php openssh 
