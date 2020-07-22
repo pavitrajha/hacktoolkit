@@ -1,5 +1,5 @@
-hacktoolkit is a all in one tool that install all the best
-hacking tools if you are a bignner in the world of hacking
+hacktoolkit is a all in one tool that install all the
+hacking tools for a biggner if you are a bignner in the world of hacking
 then this tool is made for you
 REQUIREMENTS:-
                12GB storage
