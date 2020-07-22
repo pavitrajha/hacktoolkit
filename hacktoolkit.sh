@@ -1,10 +1,17 @@
 echo starting all the setup for ethical hacking 
 apt install git 
 apt install python python2 
-apt install curl proot wget php openssh lolcat figlet
-pkg install termux-api fish
+apt install curl proot wget php openssh lolcat figl
+pkg install root-repo
+pkg install unstable-repo
+pkg install x11-repo 
+pkg install netcat nmap aircrack-ng hydra tshark 
+install termux-api fish
 pip install lolcat figlet
+git clone https://github.com/noob-hackers/m-wiz
 git clone https://github.com/Ignitetch/AdvPhishing 
+git clone https://github.com/magnumripper/JohnTheRipper
+git clone https://github.com/sullo/nikto
 git clone https://github.com/noob-hackers/tunnel
 git clone https://github.com/noob-hackers/hacklock
 git clone https://github.com/noob-hackers/grabcam
@@ -29,7 +36,7 @@ git clone https://github.com/technicaldada/hackerpro
 git clone https://github.com/V4N654T/fb-hacker
 git clone https://github.com/sqlmapproject/sqlmap.git
 git clone https://github.com/The404Hacking/websploit
-mv shellphish p-gen routersploit hulk snap Infect TBomb saycheese PhonSploit blackeye seeker Email-Bomber grabcam hacklock tunnel AdvPhishing  cupp Tool-X hackerpro fb-hacker ASU InstaBrute websploit sqlmap $HOME 
+mv m-wiz shellphish p-gen routersploit hulk snap Infect TBomb saycheese PhonSploit blackeye seeker Email-Bomber grabcam hacklock tunnel AdvPhishing  cupp Tool-X hackerpro fb-hacker ASU InstaBrute websploit sqlmap $HOME 
 cd 
 echo ALL THE SETUP IS DONE 
 exit
