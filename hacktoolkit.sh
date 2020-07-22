@@ -7,7 +7,6 @@ pkg install unstable-repo
 pkg install x11-repo 
 pkg install netcat nmap aircrack-ng hydra tshark 
 install termux-api fish
-pip install lolcat figlet
 git clone https://github.com/noob-hackers/m-wiz
 git clone https://github.com/Ignitetch/AdvPhishing 
 git clone https://github.com/magnumripper/JohnTheRipper
