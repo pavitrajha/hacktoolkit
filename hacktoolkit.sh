@@ -36,12 +36,13 @@ git clone https://github.com/technicaldada/hackerpro
 git clone https://github.com/V4N654T/fb-hacker
 git clone https://github.com/sqlmapproject/sqlmap.git
 git clone https://github.com/The404Hacking/websploit
-mv m-wiz shellphish p-gen routersploit hulk snap Infect TBomb saycheese PhonSploit blackeye seeker Email-Bomber grabcam hacklock tunnel AdvPhishing  cupp Tool-X hackerpro fb-hacker ASU InstaBrute websploit sqlmap $HOME 
-cd 
+git clone https://github.com/Cesar-Hack-Gray/Spade.git
+git clone https://github.com/T4Termux/Duck_Droid
 cd m-wiz
 bash m-wiz.sh
 cd tunnel
 bash tunnel.sh
+cd
 echo ALL THE SETUP IS DONE 
 exit
 
