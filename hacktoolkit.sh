@@ -38,6 +38,10 @@ git clone https://github.com/sqlmapproject/sqlmap.git
 git clone https://github.com/The404Hacking/websploit
 mv m-wiz shellphish p-gen routersploit hulk snap Infect TBomb saycheese PhonSploit blackeye seeker Email-Bomber grabcam hacklock tunnel AdvPhishing  cupp Tool-X hackerpro fb-hacker ASU InstaBrute websploit sqlmap $HOME 
 cd 
+cd m-wiz
+bash m-wiz.sh
+cd tunnel
+bash tunnel.sh
 echo ALL THE SETUP IS DONE 
 exit
 
