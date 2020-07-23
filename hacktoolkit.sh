@@ -9,7 +9,20 @@ pkg install x11-repo
 pkg install netcat nmap aircrack-ng hydra tshark 
 pkg install termux-api fish
 pip install whell scapy lolcat figlet
-git clone https://github.com/noob-hackers/m-wiz
+pkg update && pkg upgrade -y && pkg install wget curl openss>
+
+chmod +x metasploit.sh
+
+./metasploit.sh
+
+echo l------------------l
+echo l--- METASPLOIT ---l
+echo l---  FRAMEWORK ---l
+echo l__________________l
+echo l=========l========l
+echo l=========l========l
+echo l=========l========l
+echo  PROCESS IS DONE !!!
 git clone https://github.com/Ignitetch/AdvPhishing 
 git clone https://github.com/magnumripper/JohnTheRipper
 git clone https://github.com/sullo/nikto
@@ -39,8 +52,6 @@ git clone https://github.com/sqlmapproject/sqlmap.git
 git clone https://github.com/The404Hacking/websploit
 git clone https://github.com/Cesar-Hack-Gray/Spade.git
 git clone https://github.com/T4Termux/Duck_Droid
-cd m-wiz
-bash m-wiz.sh
 cd tunnel
 bash tunnel.sh
 cd
