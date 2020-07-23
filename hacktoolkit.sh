@@ -56,5 +56,4 @@ cd tunnel
 bash tunnel.sh
 cd
 echo ALL THE SETUP IS DONE 
-exit
 
