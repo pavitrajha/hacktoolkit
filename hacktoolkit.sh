@@ -8,9 +8,8 @@ pkg install unstable-repo
 pkg install x11-repo 
 pkg install netcat nmap aircrack-ng hydra tshark 
 pkg install termux-api fish
-pip install whell scapy lolcat figlet
-pkg update && pkg upgrade -y && pkg install wget curl openss>
-
+pip install whell scapy numpy matplotlib pandas
+pkg update && pkg upgrade -y && pkg install wget curl openssh git -y wget https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master/metasploit.sh
 chmod +x metasploit.sh
 
 ./metasploit.sh
