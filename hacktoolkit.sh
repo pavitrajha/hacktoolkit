@@ -9,7 +9,7 @@ pkg install unstable-repo
 pkg install x11-repo 
 pkg install netcat nmap aircrack-ng hydra tshark 
 pkg install termux-api fish
-pip install whell scapy numpy matplotlib pandas
+pip install wheel scapy numpy matplotlib pandas
 pkg update && pkg upgrade -y && pkg install wget curl openssh git -y
 pkg install metasploit
 cd ..
